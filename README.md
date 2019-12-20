@@ -50,7 +50,7 @@ A la fin de la journée, chacun présente ce qu'il a réalisé. On aura donc ent
 ## Conclusion ##
 On en ressort motivé à persisté dans notre apprentissage du language, avec l'envie d'un jour nous en servir en "situation réelle".
 
-Un grand merci aux organisateurs, qui investissent leur temps et leur énergie pour populariser ce language si prometteur.
+Un grand merci aux organisateurs, [Pascal Le Merrer](https://twitter.com/pascallemerrer) et [Rémy Hubscher](https://twitter.com/natim) qui investissent leur temps et leur énergie pour populariser ce language si prometteur, en plus d'être des personnes fort sympathiques.
 
 Si ça vous a donné envie de participer a la prochaine édition, tenez vous au courant sur le twitter Elm France : [https://twitter.com/elmfrance](https://twitter.com/elmfrance) ou sur le site dédié [https://hackathon-elm-france.github.io/](https://hackathon-elm-france.github.io/).
 
