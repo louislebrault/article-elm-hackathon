@@ -3,18 +3,22 @@
 ... et c'était vachement cool.
 
 A Rennes le 03/12/2019 était organiser un hackathon autour du language Elm.
-A KNP ça fait un moment qu'on s'intéresse à ce language plein de belles promesses, alors on a sauté sur l'occasion d'un évènement se déroulant si près de Nantes.
+Chez KNP ça fait un petit moment regarde du coin de l'oeil ce language plein de belles promesses, alors on a sauté sur l'occasion d'un évènement se déroulant si près de Nantes.
 
 ![Alt](/small-elm-logo.png "Logo Elm")
 
 ## Elm, c'est quoi ? ##
-Elm, c'est un language fonctionnel destiné principalement a la réalisation d'interface graphique web, ceci en compilant en javascript.
+Elm, c'est un language fonctionnel destiné principalement a la réalisation d'interfaces graphiques web, ceci en compilant en JavaScript.
 
-Inspiré d'Haskell, il à été conçu pour être plus accessible que ce dernier, notamment en abstractisant certains concepts avancés de la programmation fonctionnel. Pas besoin de savoir ce qu'est un Semigroupoid ou un Profunctor pour coder en Elm.
+Inspiré d'Haskell, il à été conçu pour être plus accessible que ce dernier, notamment en offusquant certains concepts avancés de la programmation fonctionnel. Pas besoin de savoir ce qu'est un Semigroupoid ou un Profunctor pour coder en Elm.
 
-C'est à la fois un language et un framework, car il induit directement un pattern pour organiser son code, dit "MVU" (Model - View - Update). La célèbre libraire JS "Redux" s'en est ouvertement inspiré.
+C'est à la fois un language et un framework, car il induit directement un pattern pour organiser son code, dit *MVU* (Model - View - Update). La célèbre libraire JS *Redux* s'en est ouvertement inspiré.
 
-### Ses caractéristiques principales ? ###
+C'est de cette manière qu'Elm implémente le reactive progamming, qui consiste à représenter son code comme un flux de données asynchrone :
+
+Chaque évènements (action utilisateur, réponse http, etc...) déclenche un **message**, qui passe dans une méthode **update** pour mettre a jour le **model** de l'application (son état, la représentation des données qu'elle contient), et mettre à jour les **vues** en conséquence.
+
+### Ses autres caractéristiques ? ###
 - Un typage fort,
 - une syntaxe zen et épurée,
 - pas de runtime errors grace à un compilateur qui guide le développeur jusqu'à ce que le code gère tous les cas qu'on puisse lui présenter. Coder du Elm, c'est littéralement dialoguer avec la machine.
@@ -45,7 +49,7 @@ A la fin de la journée, chacun présente ce qu'il a réalisé. On aura donc ent
 ## Conclusion ##
 On en ressort motivé à persisté dans notre apprentissage du language, avec l'envie d'un jour nous en servir en "situation réelle".
 
-Un grand merci aux organisateurs, qui ont investi leur temps et leur énergie pour popularisé ce language si prometteur.
+Un grand merci aux organisateurs, qui investissent leur temps et leur énergie pour populariser ce language si prometteur.
 
 Si ça vous a donné envie de participer a la prochaine édition, tenez vous au courant sur le twitter Elm France : [https://twitter.com/elmfrance](https://twitter.com/elmfrance) ou sur le site dédié [https://hackathon-elm-france.github.io/](https://hackathon-elm-france.github.io/).
 
