@@ -3,9 +3,10 @@
 ... et c'était vachement cool.
 
 A Rennes le 03/12/2019 était organiser un hackathon autour du language Elm.
-A KNP ça fait un moment qu'on s'intéresse à ce language plein de belles promesses, alors on a sauté sur l'occasion d'un évènement organisé à coté de chez nous.
+A KNP ça fait un moment qu'on s'intéresse à ce language plein de belles promesses, alors on a sauté sur l'occasion d'un évènement se déroulant si près de Nantes.
 
 ## Elm, c'est quoi ? ##
+![Alt](/elm-logo.png "Title")
 Elm, c'est un language fonctionnel destiné principalement a la réalisation d'interface graphique web, ceci en compilant en javascript.
 
 Inspiré d'Haskell, il à été conçu pour être plus accessible que ce dernier, notamment en abstractisant certains concepts avancés de la programmation fonctionnel. Pas besoin de savoir ce qu'est un Semigroupoid ou un Profunctor pour coder en Elm.
