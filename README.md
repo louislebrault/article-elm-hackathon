@@ -5,15 +5,19 @@
 A Rennes le 03/12/2019 était organiser un hackathon autour du language Elm.
 A KNP ça fait un moment qu'on s'intéresse à ce language plein de belles promesses, alors on a sauté sur l'occasion d'un évènement se déroulant si près de Nantes.
 
+![Alt](/small-elm-logo.png "Logo Elm")
+
 ## Elm, c'est quoi ? ##
-![Alt](/small-elm-logo.png "Title") Elm, c'est un language fonctionnel destiné principalement a la réalisation d'interface graphique web, ceci en compilant en javascript.
+Elm, c'est un language fonctionnel destiné principalement a la réalisation d'interface graphique web, ceci en compilant en javascript.
 
 Inspiré d'Haskell, il à été conçu pour être plus accessible que ce dernier, notamment en abstractisant certains concepts avancés de la programmation fonctionnel. Pas besoin de savoir ce qu'est un Semigroupoid ou un Profunctor pour coder en Elm.
 
+C'est à la fois un language et un framework, car il induit directement un pattern pour organiser son code, dit "MVU" (Model - View - Update). La célèbre libraire JS "Redux" s'en est ouvertement inspiré.
+
 ### Ses caractéristiques principales ? ###
-  - Un typage fort,
-  - une syntaxe zen et épurée,
-  - pas de runtime errors grace à un compilateur qui guide le développeur jusqu'à ce que le code gère tous les cas qu'on puisse lui présenter. Coder du Elm, c'est littéralement dialoguer avec la machine.
+- Un typage fort,
+- une syntaxe zen et épurée,
+- pas de runtime errors grace à un compilateur qui guide le développeur jusqu'à ce que le code gère tous les cas qu'on puisse lui présenter. Coder du Elm, c'est littéralement dialoguer avec la machine.
 
 ## Le déroulement  ##
 Chacun se présente, autour d'un croissant et d'un café, puis on nous présente des petits projets Elm publiés récemment, un rubik cube en WebGL par exemple, le temps de comblé un petit trou dans le planning.
@@ -44,3 +48,5 @@ On en ressort motivé à persisté dans notre apprentissage du language, avec l'
 Un grand merci aux organisateurs, qui ont investi leur temps et leur énergie pour popularisé ce language si prometteur.
 
 Si ça vous a donné envie de participer a la prochaine édition, tenez vous au courant sur le twitter Elm France : [https://twitter.com/elmfrance](https://twitter.com/elmfrance) ou sur le site dédié [https://hackathon-elm-france.github.io/](https://hackathon-elm-france.github.io/).
+
+![Alt](/rubikcube.jpeg "Présentation d'un Rubik cube WebGL codé avec Elm, le matin.")
