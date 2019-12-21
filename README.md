@@ -12,9 +12,7 @@ Elm, c'est un language fonctionnel destiné principalement à la réalisation d'
 
 Inspiré d'Haskell, il à été conçu pour être plus accessible que ce dernier, notamment en offusquant certains concepts avancés de la programmation fonctionnel. Pas besoin de savoir ce qu'est un Semigroupoid ou un Profunctor pour coder en Elm.
 
-C'est à la fois un language et un framework, car il induit directement un pattern pour organiser son code, dit *MVU (Model View Update)*. La célèbre libraire JS *Redux* s'en est ouvertement inspiré.
-
-C'est de cette manière qu'Elm implémente le **functional reactive progamming**, qui consiste à **représenter son code comme un flux de données asynchrone** :
+C'est à la fois un language et un framework, car il induit directement un pattern pour organiser son code, dit *MVU (Model View Update)*. La célèbre libraire JS *Redux* s'en est ouvertement inspiré :
 
 Chaque évènement (action utilisateur, réponse http, etc...) déclenche un **message**, qui passe dans une fonction **update** pour modifier le **model** de l'application (son état, la représentation des données qu'elle contient), et mettre à jour les **vues** en conséquence.
 
