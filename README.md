@@ -2,7 +2,7 @@
 # On était au hackathon Elm de Décembre à Rennes... #
 ... et c'était vachement cool.
 
-À Rennes le 03/12/2019 était organiser un hackathon autour du language Elm.
+À Rennes le 03/12/2019 était organisé un hackathon autour du language Elm.
 Chez KNP ça fait un petit moment qu'on regarde du coin de l'oeil ce language plein de belles promesses, alors on a sauté sur l'occasion de participer à un évènement se déroulant si près de Nantes.
 
 ![Alt](/small-elm-logo.png "Logo Elm")
@@ -23,7 +23,7 @@ Elm c'est également :
 
 
 ## Le déroulement  ##
-Chacun se présente, autour d'un croissant et d'un café, puis on nous présente des petits projets Elm publiés récemment, un rubik cube en WebGL par exemple. En attendant que les derniers arrivants soit présents.
+Chacun s'introduit autour d'un croissant et d'un café. En attendant que les derniers participants arrivent, on nous présente de petits projets Elm publiés récemment, un rubik cube en WebGL par exemple.
 
 Vient ensuite le retour d'expérience de Vincent Josse, CTO d'Allo-Media. Allo-Media n'utilise qu'Elm pour leur frontend. La conclusion est selon lui sans appel : Elm est prêt pour la prod, et ce depuis un moment déjà.
 L'équipe est productive, le produit est quali, très peu de bugs arrivent jusqu'aux utilisateurs. Le constat est élogieux.
