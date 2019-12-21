@@ -40,8 +40,8 @@ A la fin de la journée, chacun présente ce qu'il a réalisé. On aura donc ent
 
 ##   Ce qu'on a aimé ##
 - L'enthousiasme et le plaisir qui émanait des participants et des organisateurs. C'était palpable que les gens appréciaient l'expérience offerte par ce language.
-- La chance d'échanger avec des vétérans qui pratiquent Elm professionnellement et quotidiennement.
-- La découverte de projets open source intéressants, on explore grâce à ça un peu plus en profondeur l'ecosystème Elm.
+- L'opportunité d'échanger avec des vétérans qui pratiquent Elm professionnellement et quotidiennement.
+- La découverte de projets open source intéressants, on explore grâce à ça un peu plus en profondeur l'écosystème Elm.
 - Les compétences acquises en pratiquant aux cotés de gens instruits.
 
 ## Conclusion ##
@@ -49,6 +49,6 @@ On en ressort plus motivé que jamais à persisté dans notre apprentissage du l
 
 Un grand merci aux organisateurs, [Pascal Le Merrer](https://twitter.com/pascallemerrer) et [Rémy Hubscher](https://twitter.com/natim) qui investissent de leur temps et de leur énergie pour populariser ce language si prometteur, en plus d'être des personnes fort sympathiques et accessibles.
 
-Si ça vous a donné envie de participer à la prochaine édition, vous pouvez suivre le twitter Elm France : [https://twitter.com/elmfrance](https://twitter.com/elmfrance) ou le site dédié [https://hackathon-elm-france.github.io/](https://hackathon-elm-france.github.io/).
+Si ça vous a donné envie de participer à la prochaine édition, vous pouvez suivre le twitter Elm France : [https://twitter.com/elmfrance](https://twitter.com/elmfrance) ou le site dédié [https://hackathon-elm-france.github.io/](https://hackathon-elm-france.github.io/). La prochaine édition se déroulera en soirée le **16 janvier**, on vous recommande chaudement d'y aller.
 
 ![Alt](/rubikcube.jpeg "Présentation d'un Rubik cube WebGL codé avec Elm, le matin.")
