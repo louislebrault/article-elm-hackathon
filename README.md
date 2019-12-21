@@ -49,6 +49,7 @@ On en ressort plus motivé que jamais à persisté dans notre apprentissage du l
 
 Un grand merci aux organisateurs, [Pascal Le Merrer](https://twitter.com/pascallemerrer) et [Rémy Hubscher](https://twitter.com/natim) qui investissent de leur temps et de leur énergie pour populariser ce language si prometteur, en plus d'être des personnes fort sympathiques et accessibles.
 
-Si ça vous a donné envie de participer à la prochaine édition, vous pouvez suivre le twitter Elm France : [https://twitter.com/elmfrance](https://twitter.com/elmfrance) ou le site dédié [https://hackathon-elm-france.github.io/](https://hackathon-elm-france.github.io/). La prochaine édition se déroulera en soirée le **16 janvier**, on vous recommande chaudement d'y aller.
+La prochaine édition se déroulera **16 janvier**, 18h30 à 22h30 dans les locaux d'IMT Atlantique à Cesson-Sévigné.
+Plus d'informations sur le site dédié [https://hackathon-elm-france.github.io/](https://hackathon-elm-france.github.io/) ou sur le twitter Elm France [https://twitter.com/elmfrance](https://twitter.com/elmfrance). Foncez !
 
 ![Alt](/rubikcube.jpeg "Présentation d'un Rubik cube WebGL codé avec Elm, le matin.")
