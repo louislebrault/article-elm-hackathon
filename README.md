@@ -19,7 +19,7 @@ Chaque évènement (action utilisateur, réponse http, etc...) déclenche un **m
 Elm c'est également :
 - Un typage fort,
 - une syntaxe zen et épurée,
-- un compilateur qui accompagne le developpeur afin de l'aider à gérer tous le cas que l'application va rencontrer. Ce faisant, le risque d'avoir une runtime error en Elm est quasi-inexistant. Si le code compile, il fonctionne.
+- un compilateur qui accompagne le developpeur afin de l'aider à gérer tous les cas que l'application va rencontrer. Ce faisant, le risque d'avoir une runtime error en Elm est quasi-inexistant. Si le code compile, il fonctionne.
 
 
 ## Le déroulement  ##
@@ -39,7 +39,7 @@ A la fin de la journée, chacun présente ce qu'il a réalisé. On aura donc ent
 - Une infructueuse mais très intéressante tentative de compiler du code Elm en WebAssembly !
 
 ##   Ce qu'on a aimé ##
-- L'enthousiasme et le plaisir qui émanait des participants et des organisateurs. C'était palpable que les gens appréciaient l'expérience offerte par ce language.
+- L'enthousiasme et le plaisir qui émanait des participants et des organisateurs était palpable. Ca se ressentait que les gens appréciaient l'expérience offerte par ce language.
 - L'opportunité d'échanger avec des vétérans qui pratiquent Elm professionnellement et quotidiennement.
 - La découverte de projets open source intéressants, on explore grâce à ça un peu plus en profondeur l'écosystème Elm.
 - Les compétences acquises en pratiquant aux cotés de gens instruits.
